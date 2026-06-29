@@ -106,7 +106,9 @@ h2 {
 #contact .social-links i:hover {
     color: var(--secondary-color);
 }
-
+#contact .table-dark * {
+    background-color: transparent;
+}
 
 /* Media queries */
 
